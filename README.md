@@ -1,4 +1,4 @@
-# Health Monitoring System
+# Health-Monitoring-System-Sampada-Mittal
 
 ## Overview
 A Java-based console application for automated health monitoring that tracks patient vital signs and provides real-time health assessments. The system helps users identify potential health risks through intelligent analysis of vital signs data.
